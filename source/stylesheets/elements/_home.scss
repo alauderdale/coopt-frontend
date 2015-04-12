@@ -22,3 +22,18 @@
 
 
 }
+
+
+.macbook-img{
+	margin-bottom:-321px;
+
+  @include breakpoint(sm) {
+    display:none;
+  }
+}
+
+.howto-gif{
+  @include breakpoint(sm) {
+   	border:4px solid rgba(0,0,0,.2);
+  }
+}
