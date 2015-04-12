@@ -835,3 +835,16 @@ footer.main-footer img.footer-logo {
 /* line 19, /Users/alauderdale/Dropbox/clients/SSILogic/COOPT/SITES/coopt_frontend/source/stylesheets/elements/_home.scss */
 .home-quote-section blockquote {
   margin-bottom: 48px; }
+
+/* line 27, /Users/alauderdale/Dropbox/clients/SSILogic/COOPT/SITES/coopt_frontend/source/stylesheets/elements/_home.scss */
+.macbook-img {
+  margin-bottom: -321px; }
+  @media (max-width: 767px) {
+    /* line 27, /Users/alauderdale/Dropbox/clients/SSILogic/COOPT/SITES/coopt_frontend/source/stylesheets/elements/_home.scss */
+    .macbook-img {
+      display: none; } }
+
+@media (max-width: 767px) {
+  /* line 35, /Users/alauderdale/Dropbox/clients/SSILogic/COOPT/SITES/coopt_frontend/source/stylesheets/elements/_home.scss */
+  .howto-gif {
+    border: 4px solid rgba(0, 0, 0, 0.2); } }
