@@ -1,6 +1,6 @@
 .home-hero-sction{
 	@extend .invert-section;
-	background:$primary-color url("../../images/main_banner.png") no-repeat scroll center top;
+	background:$primary-color url("images/main_banner.png") no-repeat scroll center top;
 	background-size:cover;
 	.btn{
 		border:1px solid white;
@@ -9,7 +9,7 @@
 
 .home-pricing-sction{
 	@extend .invert-section;
-	background:$primary-color url("../../images/macbook_banner.png") no-repeat scroll center top;
+	background:$primary-color url("images/macbook_banner.png") no-repeat scroll center top;
 	background-size:cover;
 }
 
